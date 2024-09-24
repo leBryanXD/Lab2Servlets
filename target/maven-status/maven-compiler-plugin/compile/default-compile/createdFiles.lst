@@ -1,0 +1,11 @@
+com\mycompany\bryanlab\Venta.class
+servlets\AgregarVentaServlet.class
+servlets\EliminarInventarioServlet.class
+com\mycompany\bryanlab\Inventario.class
+servlets\BuscarVentaServlet.class
+com\mycompany\bryanlab\JakartaRestConfiguration.class
+servlets\EditarVentaServlet.class
+servlets\EliminarVentaServlet.class
+com\mycompany\bryanlab\resources\JakartaEE10Resource.class
+servlets\AgregarInventarioServlet.class
+servlets\EditarInventarioServlet.class
